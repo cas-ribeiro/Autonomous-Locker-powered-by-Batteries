@@ -1,0 +1,7 @@
+../ProjectDrivers/Src/lock.c:13:6:Lock_Init	40	static
+../ProjectDrivers/Src/lock.c:25:6:Lock_StructInit	24	static
+../ProjectDrivers/Src/lock.c:49:6:Lock_Toggle	16	static
+../ProjectDrivers/Src/lock.c:55:6:Lock_Toggle_Wait_Toggle	32	static
+../ProjectDrivers/Src/lock.c:77:6:Lock_AddErrorLog	24	static
+../ProjectDrivers/Src/lock.c:86:6:Lock_SaveToFlash	112	static
+../ProjectDrivers/Src/lock.c:96:6:Lock_ReadFromFlash	112	static

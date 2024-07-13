@@ -1,0 +1,5 @@
+../ProjectDrivers/Src/led.c:11:6:LED_Init	40	static
+../ProjectDrivers/Src/led.c:28:6:LED_RedTurnOn	0	static
+../ProjectDrivers/Src/led.c:34:6:LED_RedTurnOff	0	static
+../ProjectDrivers/Src/led.c:40:6:LED_BlueTurnOn	0	static
+../ProjectDrivers/Src/led.c:46:6:LED_BlueTurnOff	0	static

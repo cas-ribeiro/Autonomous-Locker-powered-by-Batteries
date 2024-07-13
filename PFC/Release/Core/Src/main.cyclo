@@ -1,0 +1,5 @@
+../Core/Src/main.c:329:6:HAL_GPIO_EXTI_Callback	12
+../Core/Src/main.c:377:6:SystemClock_Config	4
+../Core/Src/main.c:481:6:SystemClock_Decrease	3
+../Core/Src/main.c:79:5:main	35
+../Core/Src/main.c:529:6:Error_Handler	1

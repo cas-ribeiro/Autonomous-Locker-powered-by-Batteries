@@ -1,0 +1,8 @@
+../Drivers/CMSIS/Include/core_cm4.h:1679:22:__NVIC_EnableIRQ	2
+../Drivers/CMSIS/Include/core_cm4.h:1809:22:__NVIC_SetPriority	2
+../Core/Src/main.c:79:5:main	36
+../Core/Src/main.c:329:6:HAL_GPIO_EXTI_Callback	12
+../Core/Src/main.c:377:6:SystemClock_Config	4
+../Core/Src/main.c:441:13:SystemPower_Config	1
+../Core/Src/main.c:481:6:SystemClock_Decrease	3
+../Core/Src/main.c:529:6:Error_Handler	1

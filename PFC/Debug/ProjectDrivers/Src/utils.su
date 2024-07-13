@@ -1,0 +1,5 @@
+../ProjectDrivers/Src/utils.c:11:19:WriteStructToFlash	80	static
+../ProjectDrivers/Src/utils.c:65:6:ConvertLockToSimplified	16	static
+../ProjectDrivers/Src/utils.c:73:6:ReadStructFromFlash	24	static
+../ProjectDrivers/Src/utils.c:78:6:IsFlashDataValid	32	static
+../ProjectDrivers/Src/utils.c:85:10:GetPage	24	static

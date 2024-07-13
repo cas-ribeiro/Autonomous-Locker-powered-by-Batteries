@@ -1,0 +1,5 @@
+../ProjectDrivers/Src/scanner.c:13:6:Scanner_Init	3
+../ProjectDrivers/Src/scanner.c:37:9:Scanner_Sleep	2
+../ProjectDrivers/Src/scanner.c:53:9:Scanner_Configure	4
+../ProjectDrivers/Src/scanner.c:87:9:Scanner_TurnOn	2
+../ProjectDrivers/Src/scanner.c:101:9:Scanner_ReceiveQRCode	1

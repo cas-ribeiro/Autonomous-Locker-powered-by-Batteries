@@ -1,0 +1,6 @@
+../ProjectDrivers/Src/security.c:12:9:Security_GetQRCodeType	5
+../ProjectDrivers/Src/security.c:25:9:Security_GetLockerPosition	7
+../ProjectDrivers/Src/security.c:43:9:Security_GetPin	1
+../ProjectDrivers/Src/security.c:58:9:Security_ComparePins	8
+../ProjectDrivers/Src/security.c:87:9:Security_GetMaintOpType	3
+../ProjectDrivers/Src/security.c:94:9:Security_ExecuteMaintOp	4
